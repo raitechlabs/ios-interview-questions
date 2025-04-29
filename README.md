@@ -393,6 +393,7 @@ Click the thumbnail below to start the **free crash course** on YouTube:
 - What is `@EnvironmentObject` in SwiftUI, and how does it work?
 - What is `@AppStorage` in SwiftUI, and how is it useful?
 - What is `@Binding` in SwiftUI, and when should it be used?
+- If a struct contains a `@Binding` property, how do you create a custom initializer for that struct?
 - What is `@FocusedBinding` in SwiftUI, and how is it different from `@Binding`?
 - What is `@GestureState` in SwiftUI, and how does it work?
 - What is `@UIApplicationDelegateAdaptor` in SwiftUI, and how is it used?
